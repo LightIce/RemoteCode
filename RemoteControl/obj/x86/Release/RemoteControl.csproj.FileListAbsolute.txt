@@ -1,0 +1,7 @@
+D:\Program\RemoteControl\RemoteControl\bin\Release\RemoteControl.exe
+D:\Program\RemoteControl\RemoteControl\bin\Release\RemoteControl.pdb
+D:\Program\RemoteControl\RemoteControl\obj\x86\Release\RemoteControl.Form1.resources
+D:\Program\RemoteControl\RemoteControl\obj\x86\Release\RemoteControl.Properties.Resources.resources
+D:\Program\RemoteControl\RemoteControl\obj\x86\Release\RemoteControl.csproj.GenerateResource.Cache
+D:\Program\RemoteControl\RemoteControl\obj\x86\Release\RemoteControl.exe
+D:\Program\RemoteControl\RemoteControl\obj\x86\Release\RemoteControl.pdb

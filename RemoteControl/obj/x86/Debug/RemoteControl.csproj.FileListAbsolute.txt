@@ -1,0 +1,8 @@
+D:\Program\RemoteControl\RemoteControl\bin\Debug\RemoteControl.exe
+D:\Program\RemoteControl\RemoteControl\bin\Debug\RemoteControl.pdb
+D:\Program\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Form1.resources
+D:\Program\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.Properties.Resources.resources
+D:\Program\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.csproj.GenerateResource.Cache
+D:\Program\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.exe
+D:\Program\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.pdb
+D:\Program\RemoteControl\RemoteControl\obj\x86\Debug\RemoteControl.csprojResolveAssemblyReference.cache
