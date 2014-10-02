@@ -105,7 +105,7 @@ namespace RemoteControl
                 // MessageBox.Show("fuck!");
                 // 获取网页内容
                 HttpWebRequest webRequest =
-                    (HttpWebRequest)WebRequest.Create("http://lightless.cn/RemoteControl/GetCode.php?sec-code=lightless");
+                    (HttpWebRequest)WebRequest.Create("http://xxxxx/RemoteControl/GetCode.php?sec-code=xxxxx");
                 HttpWebResponse webResponse = (HttpWebResponse)webRequest.GetResponse();
                 Stream st = webResponse.GetResponseStream();
                 StreamReader reader = new StreamReader(st, System.Text.Encoding.GetEncoding("UTF-8"));
